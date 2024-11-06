@@ -1,0 +1,5 @@
+example.com
+example.pl
+example.net
+example.ru
+example.org

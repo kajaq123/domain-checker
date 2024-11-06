@@ -1,0 +1,6 @@
+domain,istaken,expiredate
+example.com,True,2025-08-13 04:00:00
+example.pl,True,2025-04-29 21:39:14
+example.net,True,2025-08-30 04:00:00
+example.ru,True,2025-05-01 00:00:00
+example.org,True,2025-08-30 04:00:00
